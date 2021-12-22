@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "s-utils",
+  "version": "0.0.0",
+  "description": "utils",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "dist"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@utils/shared": "0.0.0"
+  }
+}
